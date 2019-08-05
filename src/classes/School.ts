@@ -1,4 +1,4 @@
-import {Student} from "./Student";
+import Student from "./Student";
 
 class School {
     // 学校名称，默认希望小学
@@ -10,6 +10,7 @@ class School {
     printInfo(){
         console.log(`name:${this.name}, studentList:${this.studentList.toString()}`);
     }
+    
 }
 
 /*

@@ -1,6 +1,6 @@
 import People from "./People";
 
-export class Student extends People{
+export default class Student extends People{
     
     // 年级, 默认1
     private _grade: number = 1;
