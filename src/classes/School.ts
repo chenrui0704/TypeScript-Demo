@@ -1,6 +1,6 @@
 import Student from "./Student";
 
-class School {
+export default class School {
     // 学校名称，默认希望小学
     name: string = '希望小学';
     // 学校里的学生，默认空
