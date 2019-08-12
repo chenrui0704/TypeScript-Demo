@@ -7,4 +7,5 @@
  * [JavaScript中变量的作用域以及闭包模块模式概念](./src/closure/closure.ts)
  * [TypeScript中类的概念以及使用](./src/classes/People.ts)
  * [TypeScript中的泛型的使用以及写一个迷你版HashMap](./src/generics/HashMapTest.ts)
- 
+ * [TypeScript中命名空间的基本使用](./src/namespace/NameSpaceTest.ts)
+  
