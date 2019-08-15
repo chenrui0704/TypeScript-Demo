@@ -1,5 +1,7 @@
 // Declare Variable
-// TypeScript中类型一共有: boolean 布尔,string 字符串,number 数值 ,array or [] 数组, tuple 元组,enum 枚举, any 任何类型,void ,null , undefined
+// TypeScript中类型一共有:
+//      boolean 布尔,string 字符串,number 数值 ,
+//      array or [] 数组, tuple 元组,enum 枚举, any 任何类型,void , null, undefined
 
 // 1. boolean类型. 值分为true和false。
 let flag: boolean = true;
