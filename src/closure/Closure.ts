@@ -19,12 +19,17 @@ var User = (function() {
         }
     }
 })();
+
 // print : 0
 console.log(User.getAge());
+
 User.add();
+
 // print 1
 console.log(User.getAge());
+
 User.reduce();
-// print 1
+
+// print 0
 console.log(User.getAge());
 
