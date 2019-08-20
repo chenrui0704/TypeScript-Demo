@@ -18,4 +18,5 @@ for (let i = 0; i < oldArray.length; i++) {
         }
     }
 }
+// 3,4,5
 console.log(repeatArray.toString());

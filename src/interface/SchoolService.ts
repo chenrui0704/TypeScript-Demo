@@ -19,6 +19,7 @@ class SchoolServiceImpl implements SchoolService{
     
 }
 
-console.log(new SchoolServiceImpl().queryAllStudent());
+let schoolService: SchoolService = new SchoolServiceImpl();
+console.log(schoolService.queryAllStudent());
 
 
