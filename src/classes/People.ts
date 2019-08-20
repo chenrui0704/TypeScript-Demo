@@ -1,4 +1,4 @@
-export  default class People {
+export default class People {
     // 姓名, 默认小明
     private name: string = '小明';
     // 年龄, 默认18
